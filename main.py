@@ -20,6 +20,7 @@ class Apple:
         self.y = random.randint(0,19) * SIZE
 
 
+#Snake controls
 
 class Snake:
     def __init__(self, parent_screen, length):
